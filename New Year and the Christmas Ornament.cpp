@@ -1,4 +1,3 @@
-//New Year and the Christmas Ornament
 #include<iostream>
 using namespace std;
 int main()
