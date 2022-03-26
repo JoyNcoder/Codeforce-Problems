@@ -1,4 +1,3 @@
-//Even Subset Sum Problem
 #include<iostream>
 using namespace std;
 int main()
