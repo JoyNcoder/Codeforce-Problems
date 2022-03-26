@@ -1,4 +1,3 @@
-//Key races
 #include<iostream>
 using namespace std;
 int main()
