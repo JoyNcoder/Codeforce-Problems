@@ -1,4 +1,3 @@
-//There Are Two Types Of Burgers
 #include<iostream>
 using namespace std;
 int main()
