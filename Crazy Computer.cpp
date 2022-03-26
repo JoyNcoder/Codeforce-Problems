@@ -1,4 +1,3 @@
-//Crazy Computer
 #include<iostream>
 using namespace std;
 int main()
