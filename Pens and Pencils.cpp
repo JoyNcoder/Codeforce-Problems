@@ -1,4 +1,3 @@
-//Pens and Pencils
 #include<iostream>
 using namespace std;
 int main()
