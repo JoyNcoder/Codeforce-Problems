@@ -1,4 +1,3 @@
-//Mishka and Contest
 #include<iostream>
 using namespace std;
 int main()
