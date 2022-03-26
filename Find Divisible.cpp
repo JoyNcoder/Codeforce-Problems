@@ -1,4 +1,3 @@
-//Find Divisible
 #include<iostream>
 using namespace std;
 int main()
