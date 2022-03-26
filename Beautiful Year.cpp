@@ -1,4 +1,3 @@
-//Beautiful Year
 #include<iostream>
 #include<string>
 using namespace std;
