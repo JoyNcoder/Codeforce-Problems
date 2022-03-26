@@ -1,4 +1,3 @@
-//Mahmoud and Ehab and the even-odd game
 #include<iostream>
 using namespace std;
 int main()
