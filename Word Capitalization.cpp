@@ -1,4 +1,3 @@
-//Word Capitalization
 #include<iostream>
 #include<string>
 using namespace std;
