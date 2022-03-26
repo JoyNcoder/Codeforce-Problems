@@ -1,4 +1,3 @@
-//Vus the Cossack and a Contest
 #include<iostream>
 using namespace std;
 int main()
