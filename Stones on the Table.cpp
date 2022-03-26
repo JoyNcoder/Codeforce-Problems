@@ -1,4 +1,3 @@
-//Stones on the Table
 #include<iostream>
 #include<string>
 using namespace std;
