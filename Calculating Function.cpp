@@ -1,4 +1,3 @@
-//Calculating Function
 #include<iostream>
 using namespace std;
 int main()
