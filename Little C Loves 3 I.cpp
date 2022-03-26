@@ -1,4 +1,3 @@
-//Little C Loves 3 I
 #include<iostream>
 using namespace std;
 int main()
