@@ -1,4 +1,3 @@
-//Alex and a Rhombus
 #include<iostream>
 using namespace std;
 int main()
