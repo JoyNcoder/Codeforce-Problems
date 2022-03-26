@@ -1,4 +1,3 @@
-//In-game Chat
 #include<iostream>
 using namespace std;
 int main()
