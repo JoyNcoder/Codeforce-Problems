@@ -1,4 +1,3 @@
-//Is your horseshoe on the other hoof?
 #include<iostream>
 using namespace std;
 int main()
