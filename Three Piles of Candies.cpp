@@ -1,4 +1,3 @@
-//Three Piles of Candies
 #include<iostream>
 using namespace std;
 int main()
