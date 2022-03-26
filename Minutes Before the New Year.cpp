@@ -1,4 +1,3 @@
-//Minutes Before the New Year
 #include<iostream>
 using namespace std;
 int main()
