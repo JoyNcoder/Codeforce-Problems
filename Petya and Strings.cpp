@@ -1,4 +1,3 @@
-//Petya and Strings
 #include<iostream>
 #include<string>
 using namespace std;
